@@ -539,7 +539,6 @@
 }
 @container es-rc-content (min-width: 880px) {
   #es-rc #es-rc-content .es-features__container__item--1 {
-    top: 2%;
     left: 1%;
   }
   #es-rc #es-rc-content .es-features__container__item--2 {
